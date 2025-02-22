@@ -1,0 +1,14 @@
+C:\Users\sefim\source\repos\Work10\Work10\bin\Debug\net9.0\Work10.exe
+C:\Users\sefim\source\repos\Work10\Work10\bin\Debug\net9.0\Work10.deps.json
+C:\Users\sefim\source\repos\Work10\Work10\bin\Debug\net9.0\Work10.runtimeconfig.json
+C:\Users\sefim\source\repos\Work10\Work10\bin\Debug\net9.0\Work10.dll
+C:\Users\sefim\source\repos\Work10\Work10\bin\Debug\net9.0\Work10.pdb
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.AssemblyInfoInputs.cache
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.AssemblyInfo.cs
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.csproj.CoreCompileInputs.cache
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.dll
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\refint\Work10.dll
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.pdb
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\Work10.genruntimeconfig.cache
+C:\Users\sefim\source\repos\Work10\Work10\obj\Debug\net9.0\ref\Work10.dll
