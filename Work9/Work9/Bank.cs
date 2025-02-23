@@ -48,7 +48,6 @@ namespace Work9
             }
         }
 
-        // Свойства ниже, сделаны для работы менюшки
         public int CheckSN
         {
             get
