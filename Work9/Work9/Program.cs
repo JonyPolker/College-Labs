@@ -20,9 +20,7 @@
             // Task 3.
 
             Bank bank = new Bank(1);
-
-            // В этом задании решил рализовать меню, для удобства использования, а так же проверки на правильность кода.
-
+            
             Console.WriteLine(bank.CheckSN);
 
             Console.WriteLine(bank.Money);
