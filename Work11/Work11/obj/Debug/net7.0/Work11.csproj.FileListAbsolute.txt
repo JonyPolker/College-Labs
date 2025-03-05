@@ -1,0 +1,14 @@
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\bin\Debug\net7.0\Work11.exe
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\bin\Debug\net7.0\Work11.deps.json
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\bin\Debug\net7.0\Work11.runtimeconfig.json
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\bin\Debug\net7.0\Work11.dll
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\bin\Debug\net7.0\Work11.pdb
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.AssemblyInfoInputs.cache
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.AssemblyInfo.cs
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.csproj.CoreCompileInputs.cache
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.dll
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\refint\Work11.dll
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.pdb
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\Work11.genruntimeconfig.cache
+C:\Users\24ИСП-05д\source\repos\Work11\Work11\obj\Debug\net7.0\ref\Work11.dll
