@@ -1,0 +1,15 @@
+C:\Users\sefim\source\repos\Work11\Work11\bin\Debug\net9.0\Work11.exe
+C:\Users\sefim\source\repos\Work11\Work11\bin\Debug\net9.0\Work11.deps.json
+C:\Users\sefim\source\repos\Work11\Work11\bin\Debug\net9.0\Work11.runtimeconfig.json
+C:\Users\sefim\source\repos\Work11\Work11\bin\Debug\net9.0\Work11.dll
+C:\Users\sefim\source\repos\Work11\Work11\bin\Debug\net9.0\Work11.pdb
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.AssemblyInfoInputs.cache
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.AssemblyInfo.cs
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.csproj.CoreCompileInputs.cache
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.sourcelink.json
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.dll
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\refint\Work11.dll
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.pdb
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\Work11.genruntimeconfig.cache
+C:\Users\sefim\source\repos\Work11\Work11\obj\Debug\net9.0\ref\Work11.dll
