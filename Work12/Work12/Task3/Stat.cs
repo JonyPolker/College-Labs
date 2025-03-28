@@ -8,7 +8,7 @@ namespace Work12.Task3
 {
     internal class Stat<T>
     {
-        private protected T value;
+        private virtual protected T value;
 
         public T Value
         {
