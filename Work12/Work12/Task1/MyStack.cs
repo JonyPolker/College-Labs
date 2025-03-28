@@ -41,14 +41,13 @@ namespace Work12.Task1
             return tempitem;
         }
 
-        public void isEmpty()
+        public bool isEmpty()
         {
             if (items.Length > 0)
             {
-                Console.WriteLine("В массиве есть элементы");
-                return;
+                return true;
             }
-            Console.WriteLine("В массиве нету элементов");
+            return false;
         }
     }
 }
