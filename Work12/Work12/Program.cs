@@ -13,11 +13,17 @@ namespace Work12
             // Task 1
 
             var ms = new MyStack<int>();
-            ms.isEmpty();
+            bool isEmp1 = ms.isEmpty();
+            if (isEmp1 == true) Console.WriteLine("В массиве есть элементы.");
+            else Console.WriteLine("В массиве нету элементов.");
             ms.Push(1);
-            ms.isEmpty();
+            bool isEmp2 = ms.isEmpty();
+            if (isEmp2 == true) Console.WriteLine("В массиве есть элементы.");
+            else Console.WriteLine("В массиве нету элементов.");
             ms.Pop();
-            ms.isEmpty();
+            bool isEmp3 = ms.isEmpty();
+            if (isEmp3 == true) Console.WriteLine("В массиве есть элементы.");
+            else Console.WriteLine("В массиве нету элементов.");
             ms.Push(2);
             ms.Push(3);
             int oi = ms.Pop();
