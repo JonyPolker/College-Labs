@@ -1,0 +1,15 @@
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.AssemblyInfoInputs.cache
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.AssemblyInfo.cs
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.csproj.CoreCompileInputs.cache
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.sourcelink.json
+C:\Users\sefim\source\repos\Work13\Work13\bin\Debug\net9.0\Work13.exe
+C:\Users\sefim\source\repos\Work13\Work13\bin\Debug\net9.0\Work13.deps.json
+C:\Users\sefim\source\repos\Work13\Work13\bin\Debug\net9.0\Work13.runtimeconfig.json
+C:\Users\sefim\source\repos\Work13\Work13\bin\Debug\net9.0\Work13.dll
+C:\Users\sefim\source\repos\Work13\Work13\bin\Debug\net9.0\Work13.pdb
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.dll
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\refint\Work13.dll
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.pdb
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\Work13.genruntimeconfig.cache
+C:\Users\sefim\source\repos\Work13\Work13\obj\Debug\net9.0\ref\Work13.dll
